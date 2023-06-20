@@ -1,4 +1,4 @@
-# Finance App Frontend
+# Finance App Frontend - Under Development
 
 Desktop application for managing personal finances, created using Electron and React.
 
